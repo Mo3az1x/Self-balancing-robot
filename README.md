@@ -472,6 +472,6 @@ MIT License - See LICENSE file
 **Need help?** Open an issue on GitHub with:
 - Clear description of the problem
 - Photos of your wiring
-- Serial Monitor output
+- Serial Monitor output.
 - PID values you're using.
   
