@@ -473,5 +473,5 @@ MIT License - See LICENSE file
 - Clear description of the problem
 - Photos of your wiring
 - Serial Monitor output.
-- PID values you're using.
+- PID values you're using..
   
